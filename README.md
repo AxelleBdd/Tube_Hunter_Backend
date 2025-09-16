@@ -14,10 +14,9 @@
 >
 >❔Create an android app. <br>
 >💭 The main goal is to create a user experience. <br>
->👤 The user can search for a surf spot, filter the results and add a new one. <br>
+>👤 The user can search for a surf spot, see the details, filter the results and add a new spot. <br>
 >⚠️ This is the backend part of the project.
 >
 
-
-
+[Link to the frontend](https://github.com/EmilieVS/Tube_Hunter_Frontend)
 
